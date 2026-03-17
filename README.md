@@ -29,7 +29,6 @@ Os projetos podem conter diferentes níveis de complexidade conforme o avanço d
 ## 👩‍💻 Autoras
 
 * Isabella Fernanda da Silva Barbosa
-* Larissa Ribeiro
-* Maria Luisa Gibrail
+
 * Larissa Ribeiro
 * Maria Luisa Gibrail
