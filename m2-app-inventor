@@ -1,0 +1,78 @@
+# Centro Paula Souza  
+## Etec Vasco Antonio Venchiarutti – Jundiaí - SP  
+
+### Curso  
+Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio  
+
+### Turma  
+2C1  
+
+### Autores  
+Larissa Ribeiro  
+Maria Luisa Gibrail
+
+# APP INVENTOR  
+
+Jundiaí  
+2026  
+
+## Projeto 1 – Primeiro Aplicativo (pg. 27)
+
+### Descrição  
+
+**Objetivo:**  
+Criar um aplicativo simples que exibe uma mensagem na tela ao clicar em um botão.
+
+**Funcionamento:**  
+O aplicativo possui um botão que, ao ser clicado, altera o texto de um componente (Label) para "Hello World".
+
+**Modificações:**  
+Foram feitas pequenas alterações visuais, como mudança de cor do botão e do texto para melhorar a aparência do aplicativo.
+
+### Print do Design  
+![Design Projeto 1](imagens/design1.png)
+
+### Print dos Blocos  
+![Blocos Projeto 1](imagens/blocos1.png)
+
+
+
+## Projeto 2 – Segundo Aplicativo (pg. 46)
+
+### Descrição  
+
+**Objetivo:**  
+Permitir que o usuário escolha cores e desenhe sobre uma imagem.
+
+**Funcionamento:**  
+O usuário seleciona uma cor e, ao tocar na tela, consegue desenhar sobre a imagem exibida.
+
+**Modificações:**  
+Foram adicionadas cores extras e ajustes no tamanho do traço para melhorar a experiência do usuário.
+
+### Print do Design  
+![Design Projeto 2](imagens/design2.png)
+
+### Print dos Blocos  
+![Blocos Projeto 2](imagens/blocos2.png)
+
+
+
+## Projeto 3 – Terceiro Aplicativo (pg. 56)
+
+### Descrição  
+
+**Objetivo:**  
+Reproduzir um som ao interagir com uma imagem.
+
+**Funcionamento:**  
+Ao clicar na imagem da abelha, o aplicativo executa um som correspondente.
+
+**Modificações:**  
+Foi ajustado o volume do som e melhorada a interface com centralização da imagem.
+
+### Print do Design  
+![Design Projeto 3](imagens/design3.png)
+
+### Print dos Blocos  
+![Blocos Projeto 3](imagens/blocos3.png)
