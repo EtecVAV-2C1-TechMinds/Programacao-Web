@@ -25,6 +25,9 @@ A escolha entre cookies e sessions depende do local de armazenamento dos dados e
 
 Sessions são geralmente preferidas para autenticação em sistemas web porque oferecem uma maior segurança em comparação ao uso exclusivo de cookies. Quando se utiliza sessions, os dados sensíveis do usuário ficam armazenados no servidor, enquanto o cliente recebe apenas um identificador de session, reduzindo a exposição de informações críticas. Isso dificulta ataques como roubo de dados diretamente do navegador. já a manipulação de dados é o processo de estruturar, limpar, transformar e organizar dados brutos para torná-los úteis para análise. Envolve operações como filtragem, agregação e junção para extrair insights valiosos, sendo essencial para a tomada de decisão estratégica em empresas. Além disso, a manipulação de dados é mais controlada, já que o servidor gerencia as informações, evitando alterações indevidas por parte do usuário. Porém o uso apenas de cookies pode ser arriscado, pois eles ficam armazenados no lado do cliente e podem ser interceptados, modificados ou roubados por ataques ou sequestro de session. Os cookies também podem representar um grave risco para a privacidade, seu uso no rastreamento de usuários evoluiu significativamente ao longo dos anos, de operações simples, os cookies de marketing atualmente são capazes de realizar a perfilização do usuário e fazer o rastreamento de acordo com as preferências do site.
 
+## Exercício 4
+
+Ao autenticar usuários em sistemas web, alguns fatores são inegavelmente essenciais para o desenvolvimento de um site seguro e eficiente. Como mencionado nas respostas anteriores, o uso de sessions representa maior segurança no local de armazenamento de dados, ou seja, estes serão armazenados no servidor e, por conseguinte, são menos suscetíveis a serem manipulados pelo usuário.
 
 ## Referências
 
