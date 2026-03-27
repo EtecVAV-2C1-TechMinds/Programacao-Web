@@ -28,6 +28,7 @@ Sessions são geralmente preferidas para autenticação em sistemas web porque o
 ## Exercício 4
 
 Ao autenticar usuários em sistemas web, alguns fatores são inegavelmente essenciais para o desenvolvimento de um site seguro e eficiente. Como mencionado nas respostas anteriores, o uso de sessions representa maior segurança no local de armazenamento de dados, ou seja, estes serão armazenados no servidor e, por conseguinte, são menos suscetíveis a serem manipulados pelo usuário.
+Por essa razão, é preferível utilizar sessions no acesso dos mesmos principalmente já que os sessions reduzem a exposição dos dados sensíveis. Sendo assim, os dados são controlados pelo servidor e não pelo usuário, diferentemente dos cookies. Em relação aos riscos ao usar apenas cookies, é importante ressaltar intercepted, stolen via malicious scripts.
 
 ## Referências
 
