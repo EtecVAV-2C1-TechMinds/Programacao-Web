@@ -92,6 +92,13 @@ O aplicativo apresenta uma proposta original com foco em educação histórica, 
 ![Quiz 2 - Design](imagens/tela_quiz_design_2.png)  
 ![Quiz 3 - Design](imagens/tela_quiz_design_3.png)
 
+## Tela Conflitos
+![Tela Conflitos 1 - Design](imagens/ScreenConflitos.1)  
+![Tela Conflitos 2 - Design](imagens/ScreenConflitos.2)
+
+## Tela Curiosidades
+![Tela Curiosidades 1 - Design](imagens/ScreenCuriosidades.1)
+![Tela Curiosidades 2 - Design](imagens/ScreenCuriosidades.2)
 
 # Print das telas dos Blocos
 
