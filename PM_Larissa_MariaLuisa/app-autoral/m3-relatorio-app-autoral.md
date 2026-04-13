@@ -48,6 +48,36 @@ O aplicativo possui uma tela inicial simples, que direciona o usuário para um m
 - Tela de Quiz: contém 4 perguntas relacionadas ao conteúdo do aplicativo.  
   No final, há um teste de conhecimento onde o usuário tenta identificar o lugar mais seguro, podendo visualizar o resultado e reiniciar o quiz.
 
+## Conceitos utilizados
+
+Durante o desenvolvimento do aplicativo, foram aplicados diversos conceitos estudados na apostila, como:
+
+- Criação de interface gráfica (Design das telas)
+- Programação em blocos no App Inventor
+- Uso de eventos de clique (botões)
+- Navegação entre telas (open another screen)
+- Organização lógica do aplicativo
+- Interação com o usuário
+
+## Componentes utilizados
+
+- Botões  
+- Labels (textos)  
+- Imagens  
+- Componentes de mídia (som)  
+- Layouts de organização  
+- Blocos de programação para navegação e lógica
+
+## Diferenciais do projeto
+
+O aplicativo apresenta uma proposta original com foco em educação histórica, incluindo:
+
+- Organização por categorias (Conflitos, Curiosidades e Quiz)  
+- Interface visual personalizada  
+- Uso de imagens e textos explicativos  
+- Elemento interativo com som  
+- Sistema de quiz com resultado e reinício
+
 
 # Print das telas do Design
 
