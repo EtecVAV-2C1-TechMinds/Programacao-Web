@@ -62,3 +62,115 @@ Permite acessar notícias e conteúdos externos relacionados aos conflitos do Or
 
 ## Mapa Interativo
 Integração com Google Maps para visualização de regiões centrais dos conflitos históricos.
+
+---
+
+# Tela de Curiosidades
+
+Apresenta fatos históricos interessantes, como:
+
+- Samurais e armas de fogo
+- Elefantes de guerra na Índia
+- A Grande Muralha da China como sistema militar
+
+---
+
+# Tela de Quiz
+
+O aplicativo possui um quiz com perguntas relacionadas aos conteúdos apresentados.
+
+Ao final do quiz:
+- o usuário visualiza o resultado
+- pode reiniciar o teste
+- interage com elementos sonoros e visuais
+
+---
+
+# Área de Feedback e Contato
+
+Foi criada uma área específica para interação com o usuário, contendo:
+
+## Correio Eletrônico
+Permite enviar mensagens e feedback diretamente pelo aplicativo.
+
+## Chamada Telefônica
+Possibilita realizar contato através de ligação telefônica integrada ao sistema do celular.
+
+---
+
+# Conceitos Utilizados
+
+Durante o desenvolvimento do aplicativo foram aplicados diversos conceitos estudados em aula:
+
+- Criação de interface gráfica
+- Programação em blocos no App Inventor
+- Navegação entre telas
+- Eventos de clique
+- Organização lógica do aplicativo
+- Interação com o usuário
+- Componentes avançados
+- Integração com aplicativos externos
+
+---
+
+# Componentes Utilizados
+
+- Botões
+- Labels (textos)
+- Imagens
+- Componentes de mídia
+- Layouts de organização
+- ActivityStarter
+- PhoneCall
+- Blocos de navegação e lógica
+
+---
+
+# Diferenciais do Projeto
+
+O aplicativo apresenta uma proposta educativa e interativa, destacando:
+
+- Organização por categorias
+- Interface personalizada
+- Sistema de quiz interativo
+- Uso de sons e imagens
+- Integração com mapas e web
+- Área de contato e feedback
+- Navegação intuitiva
+
+---
+
+# Funcionalidades Adicionadas
+
+## Link da Web
+Acesso rápido a notícias e conteúdos atualizados sobre conflitos históricos.
+
+## Correio Eletrônico
+Envio de mensagens diretamente pelo aplicativo.
+
+## Chamada Telefônica
+Contato rápido através de ligação telefônica.
+
+## Mapa
+Visualização da localização geográfica de regiões relacionadas aos conflitos do Oriente Médio.
+
+---
+
+# Tecnologias Utilizadas
+
+- MIT App Inventor
+- Programação em blocos
+- Google Maps
+- Recursos nativos do Android
+
+---
+
+# Arquivos do Repositório
+
+Este repositório contém:
+
+- Arquivo `.aia` do aplicativo
+- Documento em `.pdf` ou `.docx`
+- Prints das telas
+- Prints dos blocos de programação
+- README do projeto
