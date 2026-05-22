@@ -36,7 +36,7 @@ Além das funcionalidades iniciais, foram implementados componentes avançados s
 A tela inicial possui um botão responsável por direcionar o usuário para o menu principal do aplicativo.
 
 ### Imagem
-![Tela Inicial](design_inicial.png)
+![Tela Inicial](imagens/design_inicial.png)
 
 ---
 
@@ -49,7 +49,7 @@ O menu permite navegar entre as principais áreas do projeto:
 - Área de Contato e Feedback
 
 ### Imagem
-![Menu Principal](design_menu.png)
+![Menu Principal](imagens/design_menu.png)
 
 ---
 
@@ -70,14 +70,14 @@ Permite acessar notícias e conteúdos externos relacionados aos conflitos do Or
 Integração com Google Maps para visualização de regiões centrais dos conflitos históricos.
 
 ### Imagens
-![Conflitos 1](design_conflitos1.png)
+![Conflitos 1](imagens/design_conflitos1.png)
 
-![Conflitos 2](design_conflitos2.png)
+![Conflitos 2](imagens/design_conflitos2.png)
 
-![Conflitos 3](design_conflitos3.png)
+![Conflitos 3](imagens/design_conflitos3.png)
 
 ### Blocos
-![Blocos Conflitos](bloco_conflitos.png)
+![Blocos Conflitos](imagens/bloco_conflitos.png)
 
 ---
 
@@ -90,9 +90,9 @@ Apresenta fatos históricos interessantes, como:
 - A Grande Muralha da China como sistema militar
   
 ### Imagens
-![Curiosidades 1](design_curiosidades1.png)
+![Curiosidades 1](imagens/design_curiosidades1.png)
 
-![Curiosidades 2](design_curiosidades2.png)
+![Curiosidades 2](imagens/design_curiosidades2.png)
 
 ---
 
@@ -106,16 +106,16 @@ Ao final do quiz:
 - interage com elementos sonoros e visuais
 
 ### Imagens
-![Quiz 1](design_quiz1.png)
+![Quiz 1](imagens/design_quiz1.png)
 
-![Quiz 2](design_quiz2.png)
+![Quiz 2](imagens/design_quiz2.png)
 
-![Quiz 3](design_quiz3.png)
+![Quiz 3](imagens/design_quiz3.png)
 
 ### Blocos
-![Blocos Quiz 1](bloco_quiz1.png)
+![Blocos Quiz 1](imagens/bloco_quiz1.png)
 
-![Blocos Quiz 2](bloco_quiz2.png)
+![Blocos Quiz 2](imagens/bloco_quiz2.png)
 
 ---
 
@@ -130,10 +130,10 @@ Permite enviar mensagens e feedback diretamente pelo aplicativo.
 Possibilita realizar contato através de ligação telefônica integrada ao sistema do celular.
 
 ### Imagem
-![Tela Contato](design_contato.png)
+![Tela Contato](imagens/design_contato.png)
 
 ### Blocos
-![Blocos Contato](bloco_contato.png)
+![Blocos Contato](imagens/bloco_contato.png)
 
 ---
 
