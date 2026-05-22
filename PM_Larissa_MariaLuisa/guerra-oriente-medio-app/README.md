@@ -35,6 +35,9 @@ Além das funcionalidades iniciais, foram implementados componentes avançados s
 ## Tela Inicial
 A tela inicial possui um botão responsável por direcionar o usuário para o menu principal do aplicativo.
 
+### Imagem
+![Tela Inicial](design_inicial.png)
+
 ---
 
 ## Menu Principal
@@ -44,6 +47,9 @@ O menu permite navegar entre as principais áreas do projeto:
 - Tela de Curiosidades
 - Tela de Quiz
 - Área de Contato e Feedback
+
+### Imagem
+![Menu Principal](design_menu.png)
 
 ---
 
@@ -63,6 +69,16 @@ Permite acessar notícias e conteúdos externos relacionados aos conflitos do Or
 ## Mapa Interativo
 Integração com Google Maps para visualização de regiões centrais dos conflitos históricos.
 
+### Imagens
+![Conflitos 1](design_conflitos1.png)
+
+![Conflitos 2](design_conflitos2.png)
+
+![Conflitos 3](design_conflitos3.png)
+
+### Blocos
+![Blocos Conflitos](bloco_conflitos.png)
+
 ---
 
 # Tela de Curiosidades
@@ -72,6 +88,11 @@ Apresenta fatos históricos interessantes, como:
 - Samurais e armas de fogo
 - Elefantes de guerra na Índia
 - A Grande Muralha da China como sistema militar
+  
+### Imagens
+![Curiosidades 1](design_curiosidades1.png)
+
+![Curiosidades 2](design_curiosidades2.png)
 
 ---
 
@@ -84,6 +105,18 @@ Ao final do quiz:
 - pode reiniciar o teste
 - interage com elementos sonoros e visuais
 
+### Imagens
+![Quiz 1](design_quiz1.png)
+
+![Quiz 2](design_quiz2.png)
+
+![Quiz 3](design_quiz3.png)
+
+### Blocos
+![Blocos Quiz 1](bloco_quiz1.png)
+
+![Blocos Quiz 2](bloco_quiz2.png)
+
 ---
 
 # Área de Feedback e Contato
@@ -95,6 +128,12 @@ Permite enviar mensagens e feedback diretamente pelo aplicativo.
 
 ## Chamada Telefônica
 Possibilita realizar contato através de ligação telefônica integrada ao sistema do celular.
+
+### Imagem
+![Tela Contato](design_contato.png)
+
+### Blocos
+![Blocos Contato](bloco_contato.png)
 
 ---
 
